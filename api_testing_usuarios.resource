@@ -49,3 +49,4 @@ Repetir o cadastro do Usuário
 Verificar se a API não permitiu o cadastro repetido
 <<<<<<< HEAD
     Dictionary Should Contain Item    ${RESPOSTA}    message    Este email já está sendo usado
+aaa
