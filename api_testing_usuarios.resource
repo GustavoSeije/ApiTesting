@@ -47,7 +47,5 @@ Conferir se o usuário foi cadastrado corretamente
 Repetir o cadastro do Usuário
     Cadastrar o usuário criado na ServeRest    email=${EMAIL}    status_code_desejado=400
 Verificar se a API não permitiu o cadastro repetido
+<<<<<<< HEAD
     Dictionary Should Contain Item    ${RESPOSTA}    message    Este email já está sendo usado
-teste para dar commit
-
-NOVO TESTE

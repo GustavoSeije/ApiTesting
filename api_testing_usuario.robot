@@ -14,6 +14,3 @@ Cenário 02: Cadastro de um usuário já existente
     Cadastrar o usuário criado na ServeRest    email=${EMAIL}    status_code_desejado=201
     Repetir o cadastro do Usuário
     Verificar se a API não permitiu o cadastro repetido
-teste para dar commit
-
-NOVO TESTE
